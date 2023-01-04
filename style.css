@@ -1,0 +1,35 @@
+.body{
+				background-color: #015958;
+}
+.navbar{
+				background-color: #023535;
+}
+.navbar-brand{
+				margin-left: 10px;
+}
+.col img{
+				border-radius: 20%;
+}
+.img{
+				border-radius: 20%;
+}
+footer{
+				background-color: #696969;
+}
+.fa-brands{
+				width: 10%;
+}
+.card{
+				background-color: #506266;
+}
+.card-body{
+				background-color: #10454F;
+				
+}
+.footer{
+				background-color: #015958;
+}
+a{
+				text-decoration: none;
+				color: white;
+}
